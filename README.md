@@ -1,4 +1,4 @@
-# kamstrup_emoncms
+# Kamstrup emoncms
 Test loading data to Emoncms with python. 
 
 todo
