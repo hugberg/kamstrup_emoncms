@@ -5,5 +5,8 @@ List of components
 - Raspberry Pi B+ connected to the internet 
 - Optical reader for utility meters. 
 
-Picture of the meter and optical reader
+Meter and optical reader
 https://goo.gl/photos/dSZf8qXPb4PRuHfB6
+
+Emoncms homepage 
+https://emoncms.org/
