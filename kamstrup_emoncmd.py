@@ -20,7 +20,7 @@ import datetime
 ################Emoncmd import########################################
 
 API_URL = 'https://emoncms.org/input/post.json?json='
-API_KEY = ''
+API_KEY = '--api read write key here--'
 
 #######################################################################
 # Poul-Henning Kamp's code, thanks...
