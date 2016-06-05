@@ -4,7 +4,7 @@ import time
 
 
 API_URL = 'https://emoncms.org/input/post.json?json='
-API_KEY = '--api read write key here'
+API_KEY = '--api read write key here--'
 
 while True:
     data = random.random()*100
